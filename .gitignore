@@ -1,0 +1,99 @@
+# ==============================
+# Python Cache
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Virtual Environments
+# ==============================
+venv/
+.venv/
+env/
+ENV/
+virtualenv/
+conda-env/
+
+# ==============================
+# Jupyter Notebook / JupyterLab
+# ==============================
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.virtual_documents/
+
+# ==============================
+# Jupyter Temporary Files
+# ==============================
+*.ipynb.tmp
+
+# ==============================
+# Anaconda / Conda
+# ==============================
+.conda/
+conda-meta/
+
+# ==============================
+# Machine Learning Artifacts
+# ==============================
+*.pkl
+*.pickle
+*.joblib
+*.model
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+
+# ==============================
+# Logs
+# ==============================
+*.log
+logs/
+
+# ==============================
+# Environment Variables / Secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# IDE / Editor
+# ==============================
+.vscode/
+.idea/
+
+# ==============================
+# Operating System
+# ==============================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==============================
+# Build / Distribution
+# ==============================
+build/
+dist/
+*.egg-info/
+
+# ==============================
+# Coverage / Testing
+# ==============================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# ==============================
+# Temporary Files
+# ==============================
+*.tmp
+*.bak
+*.swp
+
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/

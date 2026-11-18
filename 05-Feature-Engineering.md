@@ -32,7 +32,7 @@ Here, `PricePerSqFt` is a new feature created by mathematical combination techni
 - We create a new feature based on the target variable
 
 **For example:**
-Suppose we are predicting ==whether a customer will buy a product:==
+Suppose we are predicting whether a customer will buy a product:
 
 |Customer|Previous Purchases|Purchased|
 |---|---|---|
